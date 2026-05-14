@@ -14,7 +14,6 @@ export const CATEGORIES = [
   { key: 'sampleType', column: 'sample_primary_met', label: 'Sample Type' },
   { key: 'treatment', column: 'treated_naive', label: 'Treatment' },
   { key: 'etExposure', column: 'ET_exposed', label: 'ET Exposure' },
-  { key: 'age', column: 'age', label: 'Age' },
 ];
 
 // Available genes and their file mappings
